@@ -1,0 +1,6 @@
+framework module TwilioIPMessagingClient {
+    umbrella header "TwilioIPMessagingClient.h"
+    
+    export *
+    module * { export * }
+}

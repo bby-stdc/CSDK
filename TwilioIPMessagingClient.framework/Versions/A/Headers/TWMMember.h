@@ -1,0 +1,27 @@
+//
+//  TWMMember.h
+//  Twilio IP Messaging Client
+//
+//  Copyright (c) 2011-2016 Twilio. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+#import "TWMUserInfo.h"
+
+/** Representation of a Member on an IP Messaging channel. */
+@interface TWMMember : NSObject
+
+/** The info for this member. */
+@property (nonatomic, strong, readonly) TWMUserInfo *userInfo;
+
+/** Index of the last Message the Member has consumed in this Channel. */
+@property (nonatomic, copy, readonly) NSNumber *lastConsumedMessageIndex;
+
+/** Timestamp the last consumption updated for the Member in this Channel. */
+@property (nonatomic, copy, readonly) NSString *lastConsumptionTimestamp;
+
+/** Timestamp the last consumption updated for the Member in this Channel as an NSDate. */
+@property (nonatomic, strong, readonly) NSDate *lastConsumptionTimestampAsDate;
+
+@end
