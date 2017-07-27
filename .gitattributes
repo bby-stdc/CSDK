@@ -1,3 +1,4 @@
 GoogleMobileAds.framework/ filter=lfs diff=lfs merge=lfs -text
 NewRelicAgent.framework/ filter=lfs diff=lfs merge=lfs -text
 TwilioIPMessagingClient.framework/ filter=lfs diff=lfs merge=lfs -text
+WebyclipSDK.framework/ filter=lfs diff=lfs merge=lfs -text
