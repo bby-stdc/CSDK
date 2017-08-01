@@ -1,0 +1,10 @@
+framework module BBYSegmentedControl {
+  umbrella header "BBYSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module BBYSegmentedControl.Swift {
+    header "BBYSegmentedControl-Swift.h"
+}
