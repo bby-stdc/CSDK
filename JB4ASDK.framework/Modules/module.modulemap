@@ -1,0 +1,6 @@
+framework module JB4ASDK {
+  umbrella header "JB4ASDK.h"
+
+  export *
+  module * { export * }
+}
