@@ -1,0 +1,6 @@
+framework module FrameworkHub {
+  umbrella header "FrameworkHub.h"
+
+  export *
+  module * { export * }
+}
