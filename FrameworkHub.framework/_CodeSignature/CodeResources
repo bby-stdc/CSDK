@@ -10,19 +10,19 @@
 		</data>
 		<key>Headers/FrameworkHub.h</key>
 		<data>
-		wgJ3tdTCMl6La6R2xtJrVTFyOZE=
+		Mtv8Px+23GlXqAPceOcnc32KG6k=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S2jZPbLE/c4fM2fFa9GB4HQ8lMc=
+		E7yyudoFlA0HeiKa/Y6LDzt5dUo=
 		</data>
 		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Y1LzxsUvZMDP38s8DxboVPnomEs=
+		/jGWhYm7gqtxMhKk4VErMnyoptc=
 		</data>
 		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		1n06MAZXqIKFVU1CoHmXpleqRgc=
+		b6rmtnHYcV7tfYMDm8vel9oDHoE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,33 +46,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wgJ3tdTCMl6La6R2xtJrVTFyOZE=
+			Mtv8Px+23GlXqAPceOcnc32KG6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			g00BfAhsUpaK+xVELYCQy7zjMR2nzCduqyinQ2DbETo=
+			ECAP5LgXK49EIXDFWKM1rzSeiC/4S6QdJSEW3JkAkjc=
 			</data>
 		</dict>
 		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y1LzxsUvZMDP38s8DxboVPnomEs=
+			/jGWhYm7gqtxMhKk4VErMnyoptc=
 			</data>
 			<key>hash2</key>
 			<data>
-			GZHg/pvCQl9c63uF2Pqs2P7p1xfeBYF3BZLVEGaqCGo=
+			VriqlmjAPcEFEqxSAyNC0XW7RzrTyaLcyDk+f8zisIc=
 			</data>
 		</dict>
 		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1n06MAZXqIKFVU1CoHmXpleqRgc=
+			b6rmtnHYcV7tfYMDm8vel9oDHoE=
 			</data>
 			<key>hash2</key>
 			<data>
-			/lgCF5S0KrufwKdnb4lee7zNPpbRED+larB8FzJgIv4=
+			uLkBL8whsRqgnHzLf+8y1kJyZaA2Y0gSsTAXbcADT8k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
