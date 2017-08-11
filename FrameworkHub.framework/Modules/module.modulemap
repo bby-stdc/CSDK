@@ -4,3 +4,7 @@ framework module FrameworkHub {
   export *
   module * { export * }
 }
+
+module FrameworkHub.Swift {
+    header "FrameworkHub-Swift.h"
+}

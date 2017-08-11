@@ -4,41 +4,86 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/FrameworkHub-Swift.h</key>
+		<data>
+		YjOFRc0CuVQCBOwKMIfA02UQ3n4=
+		</data>
 		<key>Headers/FrameworkHub.h</key>
 		<data>
-		mJ8i0u/+wRxX6ewSE1uWTXt2laI=
+		wgJ3tdTCMl6La6R2xtJrVTFyOZE=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		S2jZPbLE/c4fM2fFa9GB4HQ8lMc=
 		</data>
+		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		Y1LzxsUvZMDP38s8DxboVPnomEs=
+		</data>
+		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		1n06MAZXqIKFVU1CoHmXpleqRgc=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		pQbo33R1Ua8E9cmjPi7DAeW2s74=
+		YrLMVbhP7qa9j3jJuoZ0fSLWSUc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/FrameworkHub-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YjOFRc0CuVQCBOwKMIfA02UQ3n4=
+			</data>
+			<key>hash2</key>
+			<data>
+			um2DblenFuzq69SSzT/tG1yzjMpBU+qr32AXFsvSyDU=
+			</data>
+		</dict>
 		<key>Headers/FrameworkHub.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mJ8i0u/+wRxX6ewSE1uWTXt2laI=
+			wgJ3tdTCMl6La6R2xtJrVTFyOZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			9emXgU3YneK66urGVExrDCJDIoXeAkRKbyTZNAKZyS4=
+			g00BfAhsUpaK+xVELYCQy7zjMR2nzCduqyinQ2DbETo=
+			</data>
+		</dict>
+		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y1LzxsUvZMDP38s8DxboVPnomEs=
+			</data>
+			<key>hash2</key>
+			<data>
+			GZHg/pvCQl9c63uF2Pqs2P7p1xfeBYF3BZLVEGaqCGo=
+			</data>
+		</dict>
+		<key>Modules/FrameworkHub.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1n06MAZXqIKFVU1CoHmXpleqRgc=
+			</data>
+			<key>hash2</key>
+			<data>
+			/lgCF5S0KrufwKdnb4lee7zNPpbRED+larB8FzJgIv4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pQbo33R1Ua8E9cmjPi7DAeW2s74=
+			YrLMVbhP7qa9j3jJuoZ0fSLWSUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			afDv0nUb5hhAy8zUercrx9oItmydKCDOQYKLpEEcF6s=
+			OO7YNCjyj1US4f4HXe1G+lF5F313Yu9wOqjcU+e3LnQ=
 			</data>
 		</dict>
 	</dict>
